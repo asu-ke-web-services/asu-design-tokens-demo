@@ -1,0 +1,19 @@
+{
+  "component": {
+    "button": {
+      "padding": { "value": "{size.padding.medium.value}" },
+      "font-size": { "value": 2 },
+      "text-align": { "value": "center" },
+
+      "primary": {
+        "background-color": { "value": "{color.brand.primary.base.value}" },
+        "color": { "value": "{color.font.inverse.base.value}" }
+      },
+
+      "secondary": {
+        "background-color": { "value": "{color.brand.secondary.base.value}" },
+        "color": { "value": "{color.font.base.value}" }
+      }
+    }
+  }
+}
