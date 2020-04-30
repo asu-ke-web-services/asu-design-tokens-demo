@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 30 Apr 2020 04:17:57 GMT
+ * Generated on Thu, 30 Apr 2020 04:50:52 GMT
  */
 
 :root {
@@ -13,14 +13,6 @@
   --asset-font-opensans-ttf: "assets/fonts/OpenSans-Regular.ttf";
   --asset-font-roboto-name: "Roboto";
   --asset-font-roboto-ttf: "assets/fonts/Roboto-Regular.ttf";
-  --image-asulogo-name: ASU Logo;
-  --image-asulogo-university-horiz-black-png: assets/asu-logo/asu_university_horiz_rgb_black_150_0.png;
-  --image-asulogo-university-horiz-maroongold: assets/asu-logo/asu_university_horiz_rgb_maroongold_150_4.png;
-  --image-asulogo-university-horiz-white: assets/asu-logo/asu_university_horiz_rgb_white_150.png;
-  --image-innovationbadge-name: ASU Innovation Badge;
-  --image-innovationbadge-badge-only-on-dark: assets/innovation-badge/asu-2020-innovation--badge-only--on-dark.png;
-  --image-innovationbadge-badge-only-on-gold: assets/innovation-badge/asu-2020-innovation--badge-only--on-gold.png;
-  --image-innovationbadge-badge-only-on-white: assets/innovation-badge/asu-2020-innovation--badge-only--on-white.png;
   --color-alerts-error-base: #cc2f2f;
   --color-alerts-error-font: #b72a2a;
   --color-alerts-error-background: #f7dddd;

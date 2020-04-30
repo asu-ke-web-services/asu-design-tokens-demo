@@ -7,14 +7,6 @@ ASSET_FONT_OPENSANS_NAME: Open Sans
 ASSET_FONT_OPENSANS_TTF: assets/fonts/OpenSans-Regular.ttf
 ASSET_FONT_ROBOTO_NAME: Roboto
 ASSET_FONT_ROBOTO_TTF: assets/fonts/Roboto-Regular.ttf
-IMAGE_ASULOGO_NAME: ASU Logo
-IMAGE_ASULOGO_UNIVERSITY-HORIZ-BLACK_PNG: assets/asu-logo/asu_university_horiz_rgb_black_150_0.png
-IMAGE_ASULOGO_UNIVERSITY-HORIZ-MAROONGOLD: assets/asu-logo/asu_university_horiz_rgb_maroongold_150_4.png
-IMAGE_ASULOGO_UNIVERSITY-HORIZ-WHITE: assets/asu-logo/asu_university_horiz_rgb_white_150.png
-IMAGE_INNOVATIONBADGE_NAME: ASU Innovation Badge
-IMAGE_INNOVATIONBADGE_-BADGE-ONLY_-ON-DARK: assets/innovation-badge/asu-2020-innovation--badge-only--on-dark.png
-IMAGE_INNOVATIONBADGE_-BADGE-ONLY_-ON-GOLD: assets/innovation-badge/asu-2020-innovation--badge-only--on-gold.png
-IMAGE_INNOVATIONBADGE_-BADGE-ONLY_-ON-WHITE: assets/innovation-badge/asu-2020-innovation--badge-only--on-white.png
 COLOR_ALERTS_ERROR_BASE: #cc2f2f
 COLOR_ALERTS_ERROR_FONT: #b72a2a
 COLOR_ALERTS_ERROR_BACKGROUND: #f7dddd
