@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 30 Apr 2020 04:50:52 GMT
+ * Generated on Thu, 30 Apr 2020 16:19:35 GMT
  */
 
 :root {
@@ -142,4 +142,6 @@
   --component-button-secondary-background-color: #bfbfbf;
   --component-button-secondary-color: #191919;
   --component-button-disabled-opacity: 50%;
+  --btn-border-radius: 1.5rem; /* Bootstrap */
+  --headings-font-family: Roboto; /* Bootstrap */
 }

@@ -2615,5 +2615,51 @@
         }
       }
     }
+  },
+  "btn": {
+    "border": {
+      "radius": {
+        "value": "1.5rem",
+        "comment": "Bootstrap",
+        "original": {
+          "value": "{component.button.border-radius.value}",
+          "comment": "Bootstrap"
+        },
+        "name": "BtnBorderRadius",
+        "attributes": {
+          "category": "btn",
+          "type": "border",
+          "item": "radius"
+        },
+        "path": [
+          "btn",
+          "border",
+          "radius"
+        ]
+      }
+    }
+  },
+  "headings": {
+    "font": {
+      "family": {
+        "value": "Roboto",
+        "comment": "Bootstrap",
+        "original": {
+          "value": "{font.family.base.value}",
+          "comment": "Bootstrap"
+        },
+        "name": "HeadingsFontFamily",
+        "attributes": {
+          "category": "headings",
+          "type": "font",
+          "item": "family"
+        },
+        "path": [
+          "headings",
+          "font",
+          "family"
+        ]
+      }
+    }
   }
 }
