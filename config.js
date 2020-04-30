@@ -57,7 +57,7 @@ const CTITransform = {
 // You can export a plain JS object and point the Style Dictionary CLI to it,
 // similar to webpack.
 module.exports = {
-  source: ["properties/**/*.json", "components/**/*.json"],
+  source: ["properties/**/*.json", "components/**/*.json", "bootstrap/**/*.json"],
 
   // Rather than calling .registerTransform() we can apply the new transform
   // directly in our configuration. Using .registerTransform() with the same
