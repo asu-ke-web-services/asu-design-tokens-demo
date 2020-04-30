@@ -42,15 +42,15 @@ const propertiesToCTI = {
 
 const CTITransform = {
   transformer: (prop) => {
-    // Only do this custom functionality in the 'component' top-level namespace.
+    // Only perform this custom transform in the 'component' top-level namespace.
     if (prop.path[0] === "component") {
       // When defining component tokens, the key of the token is the relevant CSS property
       // The key of the token is the last element in the path array
       return propertiesToCTI[prop.path[prop.path.length - 1]];
-    } else {
-      // Fallback to the original 'attribute/cti' transformer
-      return StyleDictionary.transform["attribute/cti"].transformer(prop);
     }
+
+    // Fallback to the original 'attribute/cti' transformer
+    return StyleDictionary.transform["attribute/cti"].transformer(prop);
   },
 };
 
@@ -112,8 +112,8 @@ module.exports = {
     },
 
     scss: {
-      // We can still use this transformGroup because we are overriding
-      // the underlying transform
+      // We can still use this transformGroup with our components transform
+      // because we are overriding the underlying transform
       transformGroup: "scss",
       prefix: "asu",
       buildPath: "build/scss/",
