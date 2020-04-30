@@ -1,0 +1,2773 @@
+{
+  "asset": {
+    "font": {
+      "icon": {
+        "name": {
+          "value": "FontAwesome",
+          "original": {
+            "value": "FontAwesome"
+          },
+          "name": "AssetFontIconName",
+          "attributes": {
+            "category": "asset",
+            "type": "font",
+            "item": "icon",
+            "subitem": "name"
+          },
+          "path": [
+            "asset",
+            "font",
+            "icon",
+            "name"
+          ]
+        },
+        "ttf": {
+          "value": "assets/fonts/fontawesome/fa-regular-400.ttf",
+          "original": {
+            "value": "assets/fonts/fontawesome/fa-regular-400.ttf"
+          },
+          "name": "AssetFontIconTtf",
+          "attributes": {
+            "category": "asset",
+            "type": "font",
+            "item": "icon",
+            "subitem": "ttf"
+          },
+          "path": [
+            "asset",
+            "font",
+            "icon",
+            "ttf"
+          ]
+        },
+        "eot": {
+          "value": "assets/fonts/fontawesome/fa-regular-400.eot",
+          "original": {
+            "value": "assets/fonts/fontawesome/fa-regular-400.eot"
+          },
+          "name": "AssetFontIconEot",
+          "attributes": {
+            "category": "asset",
+            "type": "font",
+            "item": "icon",
+            "subitem": "eot"
+          },
+          "path": [
+            "asset",
+            "font",
+            "icon",
+            "eot"
+          ]
+        },
+        "woff": {
+          "value": "assets/fonts/fontawesome/fa-regular-400.woff",
+          "original": {
+            "value": "assets/fonts/fontawesome/fa-regular-400.woff"
+          },
+          "name": "AssetFontIconWoff",
+          "attributes": {
+            "category": "asset",
+            "type": "font",
+            "item": "icon",
+            "subitem": "woff"
+          },
+          "path": [
+            "asset",
+            "font",
+            "icon",
+            "woff"
+          ]
+        },
+        "woff2": {
+          "value": "assets/fonts/fontawesome/fa-regular-400.woff2",
+          "original": {
+            "value": "assets/fonts/fontawesome/fa-regular-400.woff2"
+          },
+          "name": "AssetFontIconWoff2",
+          "attributes": {
+            "category": "asset",
+            "type": "font",
+            "item": "icon",
+            "subitem": "woff2"
+          },
+          "path": [
+            "asset",
+            "font",
+            "icon",
+            "woff2"
+          ]
+        }
+      },
+      "opensans": {
+        "name": {
+          "value": "Open Sans",
+          "original": {
+            "value": "Open Sans"
+          },
+          "name": "AssetFontOpensansName",
+          "attributes": {
+            "category": "asset",
+            "type": "font",
+            "item": "opensans",
+            "subitem": "name"
+          },
+          "path": [
+            "asset",
+            "font",
+            "opensans",
+            "name"
+          ]
+        },
+        "ttf": {
+          "value": "assets/fonts/OpenSans-Regular.ttf",
+          "original": {
+            "value": "assets/fonts/OpenSans-Regular.ttf"
+          },
+          "name": "AssetFontOpensansTtf",
+          "attributes": {
+            "category": "asset",
+            "type": "font",
+            "item": "opensans",
+            "subitem": "ttf"
+          },
+          "path": [
+            "asset",
+            "font",
+            "opensans",
+            "ttf"
+          ]
+        }
+      },
+      "roboto": {
+        "name": {
+          "value": "Roboto",
+          "original": {
+            "value": "Roboto"
+          },
+          "name": "AssetFontRobotoName",
+          "attributes": {
+            "category": "asset",
+            "type": "font",
+            "item": "roboto",
+            "subitem": "name"
+          },
+          "path": [
+            "asset",
+            "font",
+            "roboto",
+            "name"
+          ]
+        },
+        "ttf": {
+          "value": "assets/fonts/Roboto-Regular.ttf",
+          "original": {
+            "value": "assets/fonts/Roboto-Regular.ttf"
+          },
+          "name": "AssetFontRobotoTtf",
+          "attributes": {
+            "category": "asset",
+            "type": "font",
+            "item": "roboto",
+            "subitem": "ttf"
+          },
+          "path": [
+            "asset",
+            "font",
+            "roboto",
+            "ttf"
+          ]
+        }
+      }
+    }
+  },
+  "image": {
+    "asulogo": {
+      "name": {
+        "value": "ASU Logo",
+        "original": {
+          "value": "ASU Logo"
+        },
+        "name": "ImageAsulogoName",
+        "attributes": {
+          "category": "image",
+          "type": "asulogo",
+          "item": "name"
+        },
+        "path": [
+          "image",
+          "asulogo",
+          "name"
+        ]
+      },
+      "university-horiz-black": {
+        "png": {
+          "value": "assets/asu-logo/asu_university_horiz_rgb_black_150_0.png",
+          "original": {
+            "value": "assets/asu-logo/asu_university_horiz_rgb_black_150_0.png"
+          },
+          "name": "ImageAsulogoUniversityHorizBlackPng",
+          "attributes": {
+            "category": "image",
+            "type": "asulogo",
+            "item": "university-horiz-black",
+            "subitem": "png"
+          },
+          "path": [
+            "image",
+            "asulogo",
+            "university-horiz-black",
+            "png"
+          ]
+        }
+      },
+      "university-horiz-maroongold": {
+        "value": "assets/asu-logo/asu_university_horiz_rgb_maroongold_150_4.png",
+        "original": {
+          "value": "assets/asu-logo/asu_university_horiz_rgb_maroongold_150_4.png"
+        },
+        "name": "ImageAsulogoUniversityHorizMaroongold",
+        "attributes": {
+          "category": "image",
+          "type": "asulogo",
+          "item": "university-horiz-maroongold"
+        },
+        "path": [
+          "image",
+          "asulogo",
+          "university-horiz-maroongold"
+        ]
+      },
+      "university-horiz-white": {
+        "value": "assets/asu-logo/asu_university_horiz_rgb_white_150.png",
+        "original": {
+          "value": "assets/asu-logo/asu_university_horiz_rgb_white_150.png"
+        },
+        "name": "ImageAsulogoUniversityHorizWhite",
+        "attributes": {
+          "category": "image",
+          "type": "asulogo",
+          "item": "university-horiz-white"
+        },
+        "path": [
+          "image",
+          "asulogo",
+          "university-horiz-white"
+        ]
+      }
+    },
+    "innovationbadge": {
+      "name": {
+        "value": "ASU Innovation Badge",
+        "original": {
+          "value": "ASU Innovation Badge"
+        },
+        "name": "ImageInnovationbadgeName",
+        "attributes": {
+          "category": "image",
+          "type": "innovationbadge",
+          "item": "name"
+        },
+        "path": [
+          "image",
+          "innovationbadge",
+          "name"
+        ]
+      },
+      "-badge-only": {
+        "-on-dark": {
+          "value": "assets/innovation-badge/asu-2020-innovation--badge-only--on-dark.png",
+          "original": {
+            "value": "assets/innovation-badge/asu-2020-innovation--badge-only--on-dark.png"
+          },
+          "name": "ImageInnovationbadgeBadgeOnlyOnDark",
+          "attributes": {
+            "category": "image",
+            "type": "innovationbadge",
+            "item": "-badge-only",
+            "subitem": "-on-dark"
+          },
+          "path": [
+            "image",
+            "innovationbadge",
+            "-badge-only",
+            "-on-dark"
+          ]
+        },
+        "-on-gold": {
+          "value": "assets/innovation-badge/asu-2020-innovation--badge-only--on-gold.png",
+          "original": {
+            "value": "assets/innovation-badge/asu-2020-innovation--badge-only--on-gold.png"
+          },
+          "name": "ImageInnovationbadgeBadgeOnlyOnGold",
+          "attributes": {
+            "category": "image",
+            "type": "innovationbadge",
+            "item": "-badge-only",
+            "subitem": "-on-gold"
+          },
+          "path": [
+            "image",
+            "innovationbadge",
+            "-badge-only",
+            "-on-gold"
+          ]
+        },
+        "-on-white": {
+          "value": "assets/innovation-badge/asu-2020-innovation--badge-only--on-white.png",
+          "original": {
+            "value": "assets/innovation-badge/asu-2020-innovation--badge-only--on-white.png"
+          },
+          "name": "ImageInnovationbadgeBadgeOnlyOnWhite",
+          "attributes": {
+            "category": "image",
+            "type": "innovationbadge",
+            "item": "-badge-only",
+            "subitem": "-on-white"
+          },
+          "path": [
+            "image",
+            "innovationbadge",
+            "-badge-only",
+            "-on-white"
+          ]
+        }
+      }
+    }
+  },
+  "color": {
+    "alerts": {
+      "error": {
+        "base": {
+          "value": "#cc2f2f",
+          "original": {
+            "value": "#CC2F2F"
+          },
+          "name": "ColorAlertsErrorBase",
+          "attributes": {
+            "category": "color",
+            "type": "alerts",
+            "item": "error",
+            "subitem": "base"
+          },
+          "path": [
+            "color",
+            "alerts",
+            "error",
+            "base"
+          ]
+        },
+        "font": {
+          "value": "#b72a2a",
+          "original": {
+            "value": "#B72A2A"
+          },
+          "name": "ColorAlertsErrorFont",
+          "attributes": {
+            "category": "color",
+            "type": "alerts",
+            "item": "error",
+            "subitem": "font"
+          },
+          "path": [
+            "color",
+            "alerts",
+            "error",
+            "font"
+          ]
+        },
+        "background": {
+          "value": "#f7dddd",
+          "original": {
+            "value": "#F7DDDD"
+          },
+          "name": "ColorAlertsErrorBackground",
+          "attributes": {
+            "category": "color",
+            "type": "alerts",
+            "item": "error",
+            "subitem": "background"
+          },
+          "path": [
+            "color",
+            "alerts",
+            "error",
+            "background"
+          ]
+        }
+      },
+      "warning": {
+        "base": {
+          "value": "#ff7f32",
+          "original": {
+            "value": "#FF7F32"
+          },
+          "name": "ColorAlertsWarningBase",
+          "attributes": {
+            "category": "color",
+            "type": "alerts",
+            "item": "warning",
+            "subitem": "base"
+          },
+          "path": [
+            "color",
+            "alerts",
+            "warning",
+            "base"
+          ]
+        },
+        "font": {
+          "value": "#bd4800",
+          "original": {
+            "value": "#BD4800"
+          },
+          "name": "ColorAlertsWarningFont",
+          "attributes": {
+            "category": "color",
+            "type": "alerts",
+            "item": "warning",
+            "subitem": "font"
+          },
+          "path": [
+            "color",
+            "alerts",
+            "warning",
+            "font"
+          ]
+        },
+        "background": {
+          "value": "#ffeade",
+          "original": {
+            "value": "#FFEADE"
+          },
+          "name": "ColorAlertsWarningBackground",
+          "attributes": {
+            "category": "color",
+            "type": "alerts",
+            "item": "warning",
+            "subitem": "background"
+          },
+          "path": [
+            "color",
+            "alerts",
+            "warning",
+            "background"
+          ]
+        }
+      },
+      "info": {
+        "base": {
+          "value": "#00a3e0",
+          "original": {
+            "value": "#00A3E0"
+          },
+          "name": "ColorAlertsInfoBase",
+          "attributes": {
+            "category": "color",
+            "type": "alerts",
+            "item": "info",
+            "subitem": "base"
+          },
+          "path": [
+            "color",
+            "alerts",
+            "info",
+            "base"
+          ]
+        },
+        "font": {
+          "value": "#126877",
+          "original": {
+            "value": "#126877"
+          },
+          "name": "ColorAlertsInfoFont",
+          "attributes": {
+            "category": "color",
+            "type": "alerts",
+            "item": "info",
+            "subitem": "font"
+          },
+          "path": [
+            "color",
+            "alerts",
+            "info",
+            "font"
+          ]
+        },
+        "background": {
+          "value": "#d6f0fa",
+          "original": {
+            "value": "#D6F0FA"
+          },
+          "name": "ColorAlertsInfoBackground",
+          "attributes": {
+            "category": "color",
+            "type": "alerts",
+            "item": "info",
+            "subitem": "background"
+          },
+          "path": [
+            "color",
+            "alerts",
+            "info",
+            "background"
+          ]
+        }
+      },
+      "success": {
+        "base": {
+          "value": "#78be20",
+          "original": {
+            "value": "#78BE20"
+          },
+          "name": "ColorAlertsSuccessBase",
+          "attributes": {
+            "category": "color",
+            "type": "alerts",
+            "item": "success",
+            "subitem": "base"
+          },
+          "path": [
+            "color",
+            "alerts",
+            "success",
+            "base"
+          ]
+        },
+        "font": {
+          "value": "#446d12",
+          "original": {
+            "value": "#446D12"
+          },
+          "name": "ColorAlertsSuccessFont",
+          "attributes": {
+            "category": "color",
+            "type": "alerts",
+            "item": "success",
+            "subitem": "font"
+          },
+          "path": [
+            "color",
+            "alerts",
+            "success",
+            "font"
+          ]
+        },
+        "background": {
+          "value": "#e9f5db",
+          "original": {
+            "value": "#E9F5DB"
+          },
+          "name": "ColorAlertsSuccessBackground",
+          "attributes": {
+            "category": "color",
+            "type": "alerts",
+            "item": "success",
+            "subitem": "background"
+          },
+          "path": [
+            "color",
+            "alerts",
+            "success",
+            "background"
+          ]
+        }
+      }
+    },
+    "background": {
+      "base": {
+        "value": "#ffffff",
+        "attributes": {
+          "font": "base",
+          "category": "color",
+          "type": "background",
+          "item": "base"
+        },
+        "original": {
+          "value": "{color.base.white.value}",
+          "attributes": {
+            "font": "base"
+          }
+        },
+        "name": "ColorBackgroundBase",
+        "path": [
+          "color",
+          "background",
+          "base"
+        ]
+      },
+      "alt": {
+        "value": "#e8e8e8",
+        "attributes": {
+          "font": "base",
+          "category": "color",
+          "type": "background",
+          "item": "alt"
+        },
+        "original": {
+          "value": "{color.base.grey.2.value}",
+          "attributes": {
+            "font": "base"
+          }
+        },
+        "name": "ColorBackgroundAlt",
+        "path": [
+          "color",
+          "background",
+          "alt"
+        ]
+      },
+      "disabled": {
+        "value": "#e8e8e8",
+        "attributes": {
+          "font": "base",
+          "category": "color",
+          "type": "background",
+          "item": "disabled"
+        },
+        "original": {
+          "value": "{color.base.grey.2.value}",
+          "attributes": {
+            "font": "base"
+          }
+        },
+        "name": "ColorBackgroundDisabled",
+        "path": [
+          "color",
+          "background",
+          "disabled"
+        ]
+      },
+      "inverse": {
+        "value": "#191919",
+        "attributes": {
+          "font": "inverse",
+          "category": "color",
+          "type": "background",
+          "item": "inverse"
+        },
+        "original": {
+          "value": "{color.base.grey.7.value}",
+          "attributes": {
+            "font": "inverse"
+          }
+        },
+        "name": "ColorBackgroundInverse",
+        "path": [
+          "color",
+          "background",
+          "inverse"
+        ]
+      },
+      "success": {
+        "value": "#e9f5db",
+        "attributes": {
+          "font": "base",
+          "category": "color",
+          "type": "background",
+          "item": "success"
+        },
+        "original": {
+          "value": "{color.alerts.success.background.value}",
+          "attributes": {
+            "font": "base"
+          }
+        },
+        "name": "ColorBackgroundSuccess",
+        "path": [
+          "color",
+          "background",
+          "success"
+        ]
+      },
+      "error": {
+        "value": "#f7dddd",
+        "attributes": {
+          "font": "base",
+          "category": "color",
+          "type": "background",
+          "item": "error"
+        },
+        "original": {
+          "value": "{color.alerts.error.background.value}",
+          "attributes": {
+            "font": "base"
+          }
+        },
+        "name": "ColorBackgroundError",
+        "path": [
+          "color",
+          "background",
+          "error"
+        ]
+      },
+      "warning": {
+        "value": "#ffeade",
+        "attributes": {
+          "font": "base",
+          "category": "color",
+          "type": "background",
+          "item": "warning"
+        },
+        "original": {
+          "value": "{color.alerts.warning.background.value}",
+          "attributes": {
+            "font": "base"
+          }
+        },
+        "name": "ColorBackgroundWarning",
+        "path": [
+          "color",
+          "background",
+          "warning"
+        ]
+      },
+      "info": {
+        "value": "#d6f0fa",
+        "attributes": {
+          "font": "base",
+          "category": "color",
+          "type": "background",
+          "item": "info"
+        },
+        "original": {
+          "value": "{color.alerts.info.background.value}",
+          "attributes": {
+            "font": "base"
+          }
+        },
+        "name": "ColorBackgroundInfo",
+        "path": [
+          "color",
+          "background",
+          "info"
+        ]
+      },
+      "overlay": {
+        "light": {
+          "value": "#ffffff",
+          "original": {
+            "value": "#FFFFFFCC"
+          },
+          "name": "ColorBackgroundOverlayLight",
+          "attributes": {
+            "category": "color",
+            "type": "background",
+            "item": "overlay",
+            "subitem": "light"
+          },
+          "path": [
+            "color",
+            "background",
+            "overlay",
+            "light"
+          ]
+        },
+        "dark": {
+          "value": "#000000",
+          "original": {
+            "value": "#00000044"
+          },
+          "name": "ColorBackgroundOverlayDark",
+          "attributes": {
+            "category": "color",
+            "type": "background",
+            "item": "overlay",
+            "subitem": "dark"
+          },
+          "path": [
+            "color",
+            "background",
+            "overlay",
+            "dark"
+          ]
+        }
+      }
+    },
+    "base": {
+      "gold": {
+        "value": "#8c1d40",
+        "attributes": {
+          "font": "inverse",
+          "category": "color",
+          "type": "base",
+          "item": "gold"
+        },
+        "original": {
+          "value": "#8C1D40",
+          "attributes": {
+            "font": "inverse"
+          }
+        },
+        "name": "ColorBaseGold",
+        "path": [
+          "color",
+          "base",
+          "gold"
+        ]
+      },
+      "maroon": {
+        "value": "#ffc627",
+        "attributes": {
+          "font": "base",
+          "category": "color",
+          "type": "base",
+          "item": "maroon"
+        },
+        "original": {
+          "value": "#FFC627",
+          "attributes": {
+            "font": "base"
+          }
+        },
+        "name": "ColorBaseMaroon",
+        "path": [
+          "color",
+          "base",
+          "maroon"
+        ]
+      },
+      "white": {
+        "value": "#ffffff",
+        "attributes": {
+          "font": "base",
+          "category": "color",
+          "type": "base",
+          "item": "white"
+        },
+        "original": {
+          "value": "#FFFFFF",
+          "attributes": {
+            "font": "base"
+          }
+        },
+        "name": "ColorBaseWhite",
+        "path": [
+          "color",
+          "base",
+          "white"
+        ]
+      },
+      "green": {
+        "value": "#78be20",
+        "attributes": {
+          "font": "inverse",
+          "category": "color",
+          "type": "base",
+          "item": "green"
+        },
+        "original": {
+          "value": "#78BE20",
+          "attributes": {
+            "font": "inverse"
+          }
+        },
+        "name": "ColorBaseGreen",
+        "path": [
+          "color",
+          "base",
+          "green"
+        ]
+      },
+      "orange": {
+        "value": "#ff7f32",
+        "attributes": {
+          "font": "inverse",
+          "category": "color",
+          "type": "base",
+          "item": "orange"
+        },
+        "original": {
+          "value": "#FF7F32",
+          "attributes": {
+            "font": "inverse"
+          }
+        },
+        "name": "ColorBaseOrange",
+        "path": [
+          "color",
+          "base",
+          "orange"
+        ]
+      },
+      "blue": {
+        "value": "#00a3e0",
+        "attributes": {
+          "font": "inverse",
+          "category": "color",
+          "type": "base",
+          "item": "blue"
+        },
+        "original": {
+          "value": "#00A3E0",
+          "attributes": {
+            "font": "inverse"
+          }
+        },
+        "name": "ColorBaseBlue",
+        "path": [
+          "color",
+          "base",
+          "blue"
+        ]
+      },
+      "grey": {
+        "1": {
+          "value": "#fafafa",
+          "attributes": {
+            "font": "base",
+            "category": "color",
+            "type": "base",
+            "item": "grey",
+            "subitem": "1"
+          },
+          "original": {
+            "value": "#FAFAFA",
+            "attributes": {
+              "font": "base"
+            }
+          },
+          "name": "ColorBaseGrey1",
+          "path": [
+            "color",
+            "base",
+            "grey",
+            "1"
+          ]
+        },
+        "2": {
+          "value": "#e8e8e8",
+          "attributes": {
+            "font": "base",
+            "category": "color",
+            "type": "base",
+            "item": "grey",
+            "subitem": "2"
+          },
+          "original": {
+            "value": "#E8E8E8",
+            "attributes": {
+              "font": "base"
+            }
+          },
+          "name": "ColorBaseGrey2",
+          "path": [
+            "color",
+            "base",
+            "grey",
+            "2"
+          ]
+        },
+        "3": {
+          "value": "#d0d0d0",
+          "attributes": {
+            "font": "base",
+            "category": "color",
+            "type": "base",
+            "item": "grey",
+            "subitem": "3"
+          },
+          "original": {
+            "value": "#D0D0D0",
+            "attributes": {
+              "font": "base"
+            }
+          },
+          "name": "ColorBaseGrey3",
+          "path": [
+            "color",
+            "base",
+            "grey",
+            "3"
+          ]
+        },
+        "4": {
+          "value": "#bfbfbf",
+          "attributes": {
+            "font": "base",
+            "category": "color",
+            "type": "base",
+            "item": "grey",
+            "subitem": "4"
+          },
+          "original": {
+            "value": "#BFBFBF",
+            "attributes": {
+              "font": "base"
+            }
+          },
+          "name": "ColorBaseGrey4",
+          "path": [
+            "color",
+            "base",
+            "grey",
+            "4"
+          ]
+        },
+        "5": {
+          "value": "#747474",
+          "attributes": {
+            "font": "inverse",
+            "category": "color",
+            "type": "base",
+            "item": "grey",
+            "subitem": "5"
+          },
+          "original": {
+            "value": "#747474",
+            "attributes": {
+              "font": "inverse"
+            }
+          },
+          "name": "ColorBaseGrey5",
+          "path": [
+            "color",
+            "base",
+            "grey",
+            "5"
+          ]
+        },
+        "6": {
+          "value": "#484848",
+          "attributes": {
+            "font": "inverse",
+            "category": "color",
+            "type": "base",
+            "item": "grey",
+            "subitem": "6"
+          },
+          "original": {
+            "value": "#484848",
+            "attributes": {
+              "font": "inverse"
+            }
+          },
+          "name": "ColorBaseGrey6",
+          "path": [
+            "color",
+            "base",
+            "grey",
+            "6"
+          ]
+        },
+        "7": {
+          "value": "#191919",
+          "attributes": {
+            "font": "inverse",
+            "category": "color",
+            "type": "base",
+            "item": "grey",
+            "subitem": "7"
+          },
+          "original": {
+            "value": "#191919",
+            "attributes": {
+              "font": "inverse"
+            }
+          },
+          "name": "ColorBaseGrey7",
+          "path": [
+            "color",
+            "base",
+            "grey",
+            "7"
+          ]
+        }
+      }
+    },
+    "border": {
+      "light": {
+        "value": "#fafafa",
+        "original": {
+          "value": "{color.base.grey.1.value}"
+        },
+        "name": "ColorBorderLight",
+        "attributes": {
+          "category": "color",
+          "type": "border",
+          "item": "light"
+        },
+        "path": [
+          "color",
+          "border",
+          "light"
+        ]
+      },
+      "base": {
+        "value": "#bfbfbf",
+        "original": {
+          "value": "{color.base.grey.4.value}"
+        },
+        "name": "ColorBorderBase",
+        "attributes": {
+          "category": "color",
+          "type": "border",
+          "item": "base"
+        },
+        "path": [
+          "color",
+          "border",
+          "base"
+        ]
+      },
+      "dark": {
+        "value": "#484848",
+        "original": {
+          "value": "{color.base.grey.6.value}"
+        },
+        "name": "ColorBorderDark",
+        "attributes": {
+          "category": "color",
+          "type": "border",
+          "item": "dark"
+        },
+        "path": [
+          "color",
+          "border",
+          "dark"
+        ]
+      },
+      "focus": {
+        "value": "#ffc627",
+        "original": {
+          "value": "{color.brand.primary.base.value}"
+        },
+        "name": "ColorBorderFocus",
+        "attributes": {
+          "category": "color",
+          "type": "border",
+          "item": "focus"
+        },
+        "path": [
+          "color",
+          "border",
+          "focus"
+        ]
+      },
+      "error": {
+        "value": "#cc2f2f",
+        "original": {
+          "value": "{color.alerts.error.base.value}"
+        },
+        "name": "ColorBorderError",
+        "attributes": {
+          "category": "color",
+          "type": "border",
+          "item": "error"
+        },
+        "path": [
+          "color",
+          "border",
+          "error"
+        ]
+      },
+      "warning": {
+        "value": "#ff7f32",
+        "original": {
+          "value": "{color.alerts.warning.base.value}"
+        },
+        "name": "ColorBorderWarning",
+        "attributes": {
+          "category": "color",
+          "type": "border",
+          "item": "warning"
+        },
+        "path": [
+          "color",
+          "border",
+          "warning"
+        ]
+      },
+      "success": {
+        "value": "#78be20",
+        "original": {
+          "value": "{color.alerts.success.base.value}"
+        },
+        "name": "ColorBorderSuccess",
+        "attributes": {
+          "category": "color",
+          "type": "border",
+          "item": "success"
+        },
+        "path": [
+          "color",
+          "border",
+          "success"
+        ]
+      },
+      "info": {
+        "value": "#00a3e0",
+        "original": {
+          "value": "{color.alerts.info.base.value}"
+        },
+        "name": "ColorBorderInfo",
+        "attributes": {
+          "category": "color",
+          "type": "border",
+          "item": "info"
+        },
+        "path": [
+          "color",
+          "border",
+          "info"
+        ]
+      },
+      "button": {
+        "secondary": {
+          "base": {
+            "value": "#bfbfbf",
+            "original": {
+              "value": "{color.border.base.value}"
+            },
+            "name": "ColorBorderButtonSecondaryBase",
+            "attributes": {
+              "category": "color",
+              "type": "border",
+              "item": "button",
+              "subitem": "secondary",
+              "state": "base"
+            },
+            "path": [
+              "color",
+              "border",
+              "button",
+              "secondary",
+              "base"
+            ]
+          },
+          "active": {
+            "value": "#747474",
+            "original": {
+              "value": "{color.brand.secondary.dark.value}"
+            },
+            "name": "ColorBorderButtonSecondaryActive",
+            "attributes": {
+              "category": "color",
+              "type": "border",
+              "item": "button",
+              "subitem": "secondary",
+              "state": "active"
+            },
+            "path": [
+              "color",
+              "border",
+              "button",
+              "secondary",
+              "active"
+            ]
+          },
+          "disabled": {
+            "value": "#fafafa",
+            "original": {
+              "value": "{color.border.light.value}"
+            },
+            "name": "ColorBorderButtonSecondaryDisabled",
+            "attributes": {
+              "category": "color",
+              "type": "border",
+              "item": "button",
+              "subitem": "secondary",
+              "state": "disabled"
+            },
+            "path": [
+              "color",
+              "border",
+              "button",
+              "secondary",
+              "disabled"
+            ]
+          }
+        }
+      }
+    },
+    "brand": {
+      "primary": {
+        "lighter": {
+          "value": "#ffc627",
+          "original": {
+            "value": "{color.base.maroon.value}"
+          },
+          "name": "ColorBrandPrimaryLighter",
+          "attributes": {
+            "category": "color",
+            "type": "brand",
+            "item": "primary",
+            "subitem": "lighter"
+          },
+          "path": [
+            "color",
+            "brand",
+            "primary",
+            "lighter"
+          ]
+        },
+        "light": {
+          "value": "#ffc627",
+          "original": {
+            "value": "{color.base.maroon.value}"
+          },
+          "name": "ColorBrandPrimaryLight",
+          "attributes": {
+            "category": "color",
+            "type": "brand",
+            "item": "primary",
+            "subitem": "light"
+          },
+          "path": [
+            "color",
+            "brand",
+            "primary",
+            "light"
+          ]
+        },
+        "base": {
+          "value": "#ffc627",
+          "original": {
+            "value": "{color.base.maroon.value}"
+          },
+          "name": "ColorBrandPrimaryBase",
+          "attributes": {
+            "category": "color",
+            "type": "brand",
+            "item": "primary",
+            "subitem": "base"
+          },
+          "path": [
+            "color",
+            "brand",
+            "primary",
+            "base"
+          ]
+        },
+        "dark": {
+          "value": "#ffc627",
+          "original": {
+            "value": "{color.base.maroon.value}"
+          },
+          "name": "ColorBrandPrimaryDark",
+          "attributes": {
+            "category": "color",
+            "type": "brand",
+            "item": "primary",
+            "subitem": "dark"
+          },
+          "path": [
+            "color",
+            "brand",
+            "primary",
+            "dark"
+          ]
+        },
+        "darker": {
+          "value": "#ffc627",
+          "original": {
+            "value": "{color.base.maroon.value}"
+          },
+          "name": "ColorBrandPrimaryDarker",
+          "attributes": {
+            "category": "color",
+            "type": "brand",
+            "item": "primary",
+            "subitem": "darker"
+          },
+          "path": [
+            "color",
+            "brand",
+            "primary",
+            "darker"
+          ]
+        }
+      },
+      "secondary": {
+        "lighter": {
+          "value": "#e8e8e8",
+          "original": {
+            "value": "{color.base.grey.2.value}"
+          },
+          "name": "ColorBrandSecondaryLighter",
+          "attributes": {
+            "category": "color",
+            "type": "brand",
+            "item": "secondary",
+            "subitem": "lighter"
+          },
+          "path": [
+            "color",
+            "brand",
+            "secondary",
+            "lighter"
+          ]
+        },
+        "light": {
+          "value": "#d0d0d0",
+          "original": {
+            "value": "{color.base.grey.3.value}"
+          },
+          "name": "ColorBrandSecondaryLight",
+          "attributes": {
+            "category": "color",
+            "type": "brand",
+            "item": "secondary",
+            "subitem": "light"
+          },
+          "path": [
+            "color",
+            "brand",
+            "secondary",
+            "light"
+          ]
+        },
+        "base": {
+          "value": "#bfbfbf",
+          "original": {
+            "value": "{color.base.grey.4.value}"
+          },
+          "name": "ColorBrandSecondaryBase",
+          "attributes": {
+            "category": "color",
+            "type": "brand",
+            "item": "secondary",
+            "subitem": "base"
+          },
+          "path": [
+            "color",
+            "brand",
+            "secondary",
+            "base"
+          ]
+        },
+        "dark": {
+          "value": "#747474",
+          "original": {
+            "value": "{color.base.grey.5.value}"
+          },
+          "name": "ColorBrandSecondaryDark",
+          "attributes": {
+            "category": "color",
+            "type": "brand",
+            "item": "secondary",
+            "subitem": "dark"
+          },
+          "path": [
+            "color",
+            "brand",
+            "secondary",
+            "dark"
+          ]
+        },
+        "darker": {
+          "value": "#484848",
+          "original": {
+            "value": "{color.base.grey.6.value}"
+          },
+          "name": "ColorBrandSecondaryDarker",
+          "attributes": {
+            "category": "color",
+            "type": "brand",
+            "item": "secondary",
+            "subitem": "darker"
+          },
+          "path": [
+            "color",
+            "brand",
+            "secondary",
+            "darker"
+          ]
+        }
+      }
+    },
+    "font": {
+      "base": {
+        "value": "#191919",
+        "original": {
+          "value": "{color.base.grey.7.value}"
+        },
+        "name": "ColorFontBase",
+        "attributes": {
+          "category": "color",
+          "type": "font",
+          "item": "base"
+        },
+        "path": [
+          "color",
+          "font",
+          "base"
+        ]
+      },
+      "secondary": {
+        "value": "#747474",
+        "original": {
+          "value": "{color.base.grey.5.value}"
+        },
+        "name": "ColorFontSecondary",
+        "attributes": {
+          "category": "color",
+          "type": "font",
+          "item": "secondary"
+        },
+        "path": [
+          "color",
+          "font",
+          "secondary"
+        ]
+      },
+      "tertiary": {
+        "value": "#bfbfbf",
+        "original": {
+          "value": "{color.base.grey.4.value}"
+        },
+        "name": "ColorFontTertiary",
+        "attributes": {
+          "category": "color",
+          "type": "font",
+          "item": "tertiary"
+        },
+        "path": [
+          "color",
+          "font",
+          "tertiary"
+        ]
+      },
+      "link": {
+        "value": "#ffc627",
+        "original": {
+          "value": "{color.brand.primary.base.value}"
+        },
+        "name": "ColorFontLink",
+        "attributes": {
+          "category": "color",
+          "type": "font",
+          "item": "link"
+        },
+        "path": [
+          "color",
+          "font",
+          "link"
+        ]
+      },
+      "active": {
+        "value": "#bfbfbf",
+        "original": {
+          "value": "{color.brand.secondary.base.value}"
+        },
+        "name": "ColorFontActive",
+        "attributes": {
+          "category": "color",
+          "type": "font",
+          "item": "active"
+        },
+        "path": [
+          "color",
+          "font",
+          "active"
+        ]
+      },
+      "error": {
+        "value": "#b72a2a",
+        "original": {
+          "value": "{color.alerts.error.font.value}"
+        },
+        "name": "ColorFontError",
+        "attributes": {
+          "category": "color",
+          "type": "font",
+          "item": "error"
+        },
+        "path": [
+          "color",
+          "font",
+          "error"
+        ]
+      },
+      "warning": {
+        "value": "#bd4800",
+        "original": {
+          "value": "{color.alerts.warning.font.value}"
+        },
+        "name": "ColorFontWarning",
+        "attributes": {
+          "category": "color",
+          "type": "font",
+          "item": "warning"
+        },
+        "path": [
+          "color",
+          "font",
+          "warning"
+        ]
+      },
+      "success": {
+        "value": "#446d12",
+        "original": {
+          "value": "{color.alerts.success.font.value}"
+        },
+        "name": "ColorFontSuccess",
+        "attributes": {
+          "category": "color",
+          "type": "font",
+          "item": "success"
+        },
+        "path": [
+          "color",
+          "font",
+          "success"
+        ]
+      },
+      "info": {
+        "value": "#126877",
+        "original": {
+          "value": "{color.alerts.info.font.value}"
+        },
+        "name": "ColorFontInfo",
+        "attributes": {
+          "category": "color",
+          "type": "font",
+          "item": "info"
+        },
+        "path": [
+          "color",
+          "font",
+          "info"
+        ]
+      },
+      "disabled": {
+        "value": "#747474",
+        "original": {
+          "value": "{color.font.secondary.value}"
+        },
+        "name": "ColorFontDisabled",
+        "attributes": {
+          "category": "color",
+          "type": "font",
+          "item": "disabled"
+        },
+        "path": [
+          "color",
+          "font",
+          "disabled"
+        ]
+      },
+      "inverse": {
+        "base": {
+          "value": "#fafafa",
+          "original": {
+            "value": "{color.base.grey.1.value}"
+          },
+          "name": "ColorFontInverseBase",
+          "attributes": {
+            "category": "color",
+            "type": "font",
+            "item": "inverse",
+            "subitem": "base"
+          },
+          "path": [
+            "color",
+            "font",
+            "inverse",
+            "base"
+          ]
+        },
+        "secondary": {
+          "value": "#d0d0d0",
+          "original": {
+            "value": "{color.base.grey.3.value}"
+          },
+          "name": "ColorFontInverseSecondary",
+          "attributes": {
+            "category": "color",
+            "type": "font",
+            "item": "inverse",
+            "subitem": "secondary"
+          },
+          "path": [
+            "color",
+            "font",
+            "inverse",
+            "secondary"
+          ]
+        },
+        "tertiary": {
+          "value": "#747474",
+          "original": {
+            "value": "{color.base.grey.5.value}"
+          },
+          "name": "ColorFontInverseTertiary",
+          "attributes": {
+            "category": "color",
+            "type": "font",
+            "item": "inverse",
+            "subitem": "tertiary"
+          },
+          "path": [
+            "color",
+            "font",
+            "inverse",
+            "tertiary"
+          ]
+        },
+        "link": {
+          "value": "#8c1d40",
+          "original": {
+            "value": "{color.base.gold.value}"
+          },
+          "name": "ColorFontInverseLink",
+          "attributes": {
+            "category": "color",
+            "type": "font",
+            "item": "inverse",
+            "subitem": "link"
+          },
+          "path": [
+            "color",
+            "font",
+            "inverse",
+            "link"
+          ]
+        },
+        "active": {
+          "value": "#000000",
+          "original": {
+            "value": ""
+          },
+          "name": "ColorFontInverseActive",
+          "attributes": {
+            "category": "color",
+            "type": "font",
+            "item": "inverse",
+            "subitem": "active"
+          },
+          "path": [
+            "color",
+            "font",
+            "inverse",
+            "active"
+          ]
+        },
+        "error": {
+          "value": "#000000",
+          "original": {
+            "value": ""
+          },
+          "name": "ColorFontInverseError",
+          "attributes": {
+            "category": "color",
+            "type": "font",
+            "item": "inverse",
+            "subitem": "error"
+          },
+          "path": [
+            "color",
+            "font",
+            "inverse",
+            "error"
+          ]
+        },
+        "warning": {
+          "value": "#000000",
+          "original": {
+            "value": ""
+          },
+          "name": "ColorFontInverseWarning",
+          "attributes": {
+            "category": "color",
+            "type": "font",
+            "item": "inverse",
+            "subitem": "warning"
+          },
+          "path": [
+            "color",
+            "font",
+            "inverse",
+            "warning"
+          ]
+        },
+        "success": {
+          "value": "#000000",
+          "original": {
+            "value": ""
+          },
+          "name": "ColorFontInverseSuccess",
+          "attributes": {
+            "category": "color",
+            "type": "font",
+            "item": "inverse",
+            "subitem": "success"
+          },
+          "path": [
+            "color",
+            "font",
+            "inverse",
+            "success"
+          ]
+        },
+        "info": {
+          "value": "#000000",
+          "original": {
+            "value": ""
+          },
+          "name": "ColorFontInverseInfo",
+          "attributes": {
+            "category": "color",
+            "type": "font",
+            "item": "inverse",
+            "subitem": "info"
+          },
+          "path": [
+            "color",
+            "font",
+            "inverse",
+            "info"
+          ]
+        },
+        "disabled": {
+          "value": "#000000",
+          "original": {
+            "value": ""
+          },
+          "name": "ColorFontInverseDisabled",
+          "attributes": {
+            "category": "color",
+            "type": "font",
+            "item": "inverse",
+            "subitem": "disabled"
+          },
+          "path": [
+            "color",
+            "font",
+            "inverse",
+            "disabled"
+          ]
+        }
+      },
+      "button": {
+        "primary": {
+          "value": "#fafafa",
+          "original": {
+            "value": "{color.font.inverse.base.value}"
+          },
+          "name": "ColorFontButtonPrimary",
+          "attributes": {
+            "category": "color",
+            "type": "font",
+            "item": "button",
+            "subitem": "primary"
+          },
+          "path": [
+            "color",
+            "font",
+            "button",
+            "primary"
+          ]
+        },
+        "secondary": {
+          "value": "#ffc627",
+          "original": {
+            "value": "{color.font.link.value}"
+          },
+          "name": "ColorFontButtonSecondary",
+          "attributes": {
+            "category": "color",
+            "type": "font",
+            "item": "button",
+            "subitem": "secondary"
+          },
+          "path": [
+            "color",
+            "font",
+            "button",
+            "secondary"
+          ]
+        }
+      }
+    }
+  },
+  "font": {
+    "family": {
+      "base": {
+        "value": "Roboto",
+        "original": {
+          "value": "{asset.font.roboto.name.value}"
+        },
+        "name": "FontFamilyBase",
+        "attributes": {
+          "category": "font",
+          "type": "family",
+          "item": "base"
+        },
+        "path": [
+          "font",
+          "family",
+          "base"
+        ]
+      },
+      "icons": {
+        "value": "FontAwesome",
+        "original": {
+          "value": "{asset.font.icon.name.value}"
+        },
+        "name": "FontFamilyIcons",
+        "attributes": {
+          "category": "font",
+          "type": "family",
+          "item": "icons"
+        },
+        "path": [
+          "font",
+          "family",
+          "icons"
+        ]
+      }
+    }
+  },
+  "size": {
+    "font": {
+      "tiny": {
+        "value": "0.75rem",
+        "original": {
+          "value": "0.75"
+        },
+        "name": "SizeFontTiny",
+        "attributes": {
+          "category": "size",
+          "type": "font",
+          "item": "tiny"
+        },
+        "path": [
+          "size",
+          "font",
+          "tiny"
+        ]
+      },
+      "small": {
+        "value": "0.875rem",
+        "original": {
+          "value": "0.875"
+        },
+        "name": "SizeFontSmall",
+        "attributes": {
+          "category": "size",
+          "type": "font",
+          "item": "small"
+        },
+        "path": [
+          "size",
+          "font",
+          "small"
+        ]
+      },
+      "medium": {
+        "value": "1rem",
+        "original": {
+          "value": "1"
+        },
+        "name": "SizeFontMedium",
+        "attributes": {
+          "category": "size",
+          "type": "font",
+          "item": "medium"
+        },
+        "path": [
+          "size",
+          "font",
+          "medium"
+        ]
+      },
+      "large": {
+        "value": "1.25rem",
+        "original": {
+          "value": "1.25"
+        },
+        "name": "SizeFontLarge",
+        "attributes": {
+          "category": "size",
+          "type": "font",
+          "item": "large"
+        },
+        "path": [
+          "size",
+          "font",
+          "large"
+        ]
+      },
+      "xl": {
+        "value": "1.5rem",
+        "original": {
+          "value": "1.5"
+        },
+        "name": "SizeFontXl",
+        "attributes": {
+          "category": "size",
+          "type": "font",
+          "item": "xl"
+        },
+        "path": [
+          "size",
+          "font",
+          "xl"
+        ]
+      },
+      "xxl": {
+        "value": "2rem",
+        "original": {
+          "value": "2"
+        },
+        "name": "SizeFontXxl",
+        "attributes": {
+          "category": "size",
+          "type": "font",
+          "item": "xxl"
+        },
+        "path": [
+          "size",
+          "font",
+          "xxl"
+        ]
+      },
+      "xxxl": {
+        "value": "3rem",
+        "original": {
+          "value": "3"
+        },
+        "name": "SizeFontXxxl",
+        "attributes": {
+          "category": "size",
+          "type": "font",
+          "item": "xxxl"
+        },
+        "path": [
+          "size",
+          "font",
+          "xxxl"
+        ]
+      },
+      "base": {
+        "value": "1rem",
+        "original": {
+          "value": "{size.font.medium.value}"
+        },
+        "name": "SizeFontBase",
+        "attributes": {
+          "category": "size",
+          "type": "font",
+          "item": "base"
+        },
+        "path": [
+          "size",
+          "font",
+          "base"
+        ]
+      }
+    },
+    "icon": {
+      "small": {
+        "value": "1.5rem",
+        "original": {
+          "value": "1.5"
+        },
+        "name": "SizeIconSmall",
+        "attributes": {
+          "category": "size",
+          "type": "icon",
+          "item": "small"
+        },
+        "path": [
+          "size",
+          "icon",
+          "small"
+        ]
+      },
+      "base": {
+        "value": "2rem",
+        "original": {
+          "value": "2.0"
+        },
+        "name": "SizeIconBase",
+        "attributes": {
+          "category": "size",
+          "type": "icon",
+          "item": "base"
+        },
+        "path": [
+          "size",
+          "icon",
+          "base"
+        ]
+      },
+      "large": {
+        "value": "2.5rem",
+        "original": {
+          "value": "2.5"
+        },
+        "name": "SizeIconLarge",
+        "attributes": {
+          "category": "size",
+          "type": "icon",
+          "item": "large"
+        },
+        "path": [
+          "size",
+          "icon",
+          "large"
+        ]
+      },
+      "xl": {
+        "value": "3rem",
+        "original": {
+          "value": "3.0"
+        },
+        "name": "SizeIconXl",
+        "attributes": {
+          "category": "size",
+          "type": "icon",
+          "item": "xl"
+        },
+        "path": [
+          "size",
+          "icon",
+          "xl"
+        ]
+      },
+      "xxl": {
+        "value": "5rem",
+        "original": {
+          "value": "5.0"
+        },
+        "name": "SizeIconXxl",
+        "attributes": {
+          "category": "size",
+          "type": "icon",
+          "item": "xxl"
+        },
+        "path": [
+          "size",
+          "icon",
+          "xxl"
+        ]
+      }
+    },
+    "padding": {
+      "tiny": {
+        "value": "0.25rem",
+        "original": {
+          "value": "0.25"
+        },
+        "name": "SizePaddingTiny",
+        "attributes": {
+          "category": "size",
+          "type": "padding",
+          "item": "tiny"
+        },
+        "path": [
+          "size",
+          "padding",
+          "tiny"
+        ]
+      },
+      "small": {
+        "value": "0.5rem",
+        "original": {
+          "value": "0.5"
+        },
+        "name": "SizePaddingSmall",
+        "attributes": {
+          "category": "size",
+          "type": "padding",
+          "item": "small"
+        },
+        "path": [
+          "size",
+          "padding",
+          "small"
+        ]
+      },
+      "medium": {
+        "value": "1rem",
+        "original": {
+          "value": "1"
+        },
+        "name": "SizePaddingMedium",
+        "attributes": {
+          "category": "size",
+          "type": "padding",
+          "item": "medium"
+        },
+        "path": [
+          "size",
+          "padding",
+          "medium"
+        ]
+      },
+      "large": {
+        "value": "1.5rem",
+        "original": {
+          "value": "1.5"
+        },
+        "name": "SizePaddingLarge",
+        "attributes": {
+          "category": "size",
+          "type": "padding",
+          "item": "large"
+        },
+        "path": [
+          "size",
+          "padding",
+          "large"
+        ]
+      },
+      "xl": {
+        "value": "2rem",
+        "original": {
+          "value": "2"
+        },
+        "name": "SizePaddingXl",
+        "attributes": {
+          "category": "size",
+          "type": "padding",
+          "item": "xl"
+        },
+        "path": [
+          "size",
+          "padding",
+          "xl"
+        ]
+      },
+      "xxl": {
+        "value": "3rem",
+        "original": {
+          "value": "3"
+        },
+        "name": "SizePaddingXxl",
+        "attributes": {
+          "category": "size",
+          "type": "padding",
+          "item": "xxl"
+        },
+        "path": [
+          "size",
+          "padding",
+          "xxl"
+        ]
+      },
+      "base": {
+        "value": "1rem",
+        "original": {
+          "value": "{size.padding.medium.value}"
+        },
+        "name": "SizePaddingBase",
+        "attributes": {
+          "category": "size",
+          "type": "padding",
+          "item": "base"
+        },
+        "path": [
+          "size",
+          "padding",
+          "base"
+        ]
+      }
+    },
+    "spacing": {
+      "2": {
+        "value": "0.0125rem",
+        "original": {
+          "value": "0.0125"
+        },
+        "name": "SizeSpacing2",
+        "attributes": {
+          "category": "size",
+          "type": "spacing",
+          "item": "2"
+        },
+        "path": [
+          "size",
+          "spacing",
+          "2"
+        ]
+      },
+      "4": {
+        "value": "0.25rem",
+        "original": {
+          "value": "0.25"
+        },
+        "name": "SizeSpacing4",
+        "attributes": {
+          "category": "size",
+          "type": "spacing",
+          "item": "4"
+        },
+        "path": [
+          "size",
+          "spacing",
+          "4"
+        ]
+      },
+      "8": {
+        "value": "0.5rem",
+        "original": {
+          "value": "0.5"
+        },
+        "name": "SizeSpacing8",
+        "attributes": {
+          "category": "size",
+          "type": "spacing",
+          "item": "8"
+        },
+        "path": [
+          "size",
+          "spacing",
+          "8"
+        ]
+      },
+      "16": {
+        "value": "1rem",
+        "original": {
+          "value": "1"
+        },
+        "name": "SizeSpacing16",
+        "attributes": {
+          "category": "size",
+          "type": "spacing",
+          "item": "16"
+        },
+        "path": [
+          "size",
+          "spacing",
+          "16"
+        ]
+      },
+      "24": {
+        "value": "1.5rem",
+        "original": {
+          "value": "1.5"
+        },
+        "name": "SizeSpacing24",
+        "attributes": {
+          "category": "size",
+          "type": "spacing",
+          "item": "24"
+        },
+        "path": [
+          "size",
+          "spacing",
+          "24"
+        ]
+      },
+      "32": {
+        "value": "2rem",
+        "original": {
+          "value": "2"
+        },
+        "name": "SizeSpacing32",
+        "attributes": {
+          "category": "size",
+          "type": "spacing",
+          "item": "32"
+        },
+        "path": [
+          "size",
+          "spacing",
+          "32"
+        ]
+      },
+      "48": {
+        "value": "2.5rem",
+        "original": {
+          "value": "2.5"
+        },
+        "name": "SizeSpacing48",
+        "attributes": {
+          "category": "size",
+          "type": "spacing",
+          "item": "48"
+        },
+        "path": [
+          "size",
+          "spacing",
+          "48"
+        ]
+      },
+      "64": {
+        "value": "3rem",
+        "original": {
+          "value": "3"
+        },
+        "name": "SizeSpacing64",
+        "attributes": {
+          "category": "size",
+          "type": "spacing",
+          "item": "64"
+        },
+        "path": [
+          "size",
+          "spacing",
+          "64"
+        ]
+      },
+      "128": {
+        "value": "6rem",
+        "original": {
+          "value": "6"
+        },
+        "name": "SizeSpacing128",
+        "attributes": {
+          "category": "size",
+          "type": "spacing",
+          "item": "128"
+        },
+        "path": [
+          "size",
+          "spacing",
+          "128"
+        ]
+      },
+      "base": {
+        "value": "1rem",
+        "original": {
+          "value": "{size.padding.medium.value}"
+        },
+        "name": "SizeSpacingBase",
+        "attributes": {
+          "category": "size",
+          "type": "spacing",
+          "item": "base"
+        },
+        "path": [
+          "size",
+          "spacing",
+          "base"
+        ]
+      }
+    }
+  },
+  "time": {
+    "transition": {
+      "short": {
+        "value": "200",
+        "original": {
+          "value": "200"
+        },
+        "name": "TimeTransitionShort",
+        "attributes": {
+          "category": "time",
+          "type": "transition",
+          "item": "short"
+        },
+        "path": [
+          "time",
+          "transition",
+          "short"
+        ]
+      },
+      "base": {
+        "value": "400",
+        "original": {
+          "value": "400"
+        },
+        "name": "TimeTransitionBase",
+        "attributes": {
+          "category": "time",
+          "type": "transition",
+          "item": "base"
+        },
+        "path": [
+          "time",
+          "transition",
+          "base"
+        ]
+      },
+      "long": {
+        "value": "600",
+        "original": {
+          "value": "600"
+        },
+        "name": "TimeTransitionLong",
+        "attributes": {
+          "category": "time",
+          "type": "transition",
+          "item": "long"
+        },
+        "path": [
+          "time",
+          "transition",
+          "long"
+        ]
+      },
+      "xl": {
+        "value": "1000",
+        "original": {
+          "value": "1000"
+        },
+        "name": "TimeTransitionXl",
+        "attributes": {
+          "category": "time",
+          "type": "transition",
+          "item": "xl"
+        },
+        "path": [
+          "time",
+          "transition",
+          "xl"
+        ]
+      }
+    },
+    "delay": {
+      "short": {
+        "value": "50",
+        "original": {
+          "value": "50"
+        },
+        "name": "TimeDelayShort",
+        "attributes": {
+          "category": "time",
+          "type": "delay",
+          "item": "short"
+        },
+        "path": [
+          "time",
+          "delay",
+          "short"
+        ]
+      },
+      "base": {
+        "value": "100",
+        "original": {
+          "value": "100"
+        },
+        "name": "TimeDelayBase",
+        "attributes": {
+          "category": "time",
+          "type": "delay",
+          "item": "base"
+        },
+        "path": [
+          "time",
+          "delay",
+          "base"
+        ]
+      },
+      "long": {
+        "value": "200",
+        "original": {
+          "value": "200"
+        },
+        "name": "TimeDelayLong",
+        "attributes": {
+          "category": "time",
+          "type": "delay",
+          "item": "long"
+        },
+        "path": [
+          "time",
+          "delay",
+          "long"
+        ]
+      }
+    },
+    "duration": {
+      "short": {
+        "value": "2000",
+        "original": {
+          "value": "2000"
+        },
+        "name": "TimeDurationShort",
+        "attributes": {
+          "category": "time",
+          "type": "duration",
+          "item": "short"
+        },
+        "path": [
+          "time",
+          "duration",
+          "short"
+        ]
+      },
+      "base": {
+        "value": "4000",
+        "original": {
+          "value": "4000"
+        },
+        "name": "TimeDurationBase",
+        "attributes": {
+          "category": "time",
+          "type": "duration",
+          "item": "base"
+        },
+        "path": [
+          "time",
+          "duration",
+          "base"
+        ]
+      },
+      "long": {
+        "value": "6000",
+        "original": {
+          "value": "6000"
+        },
+        "name": "TimeDurationLong",
+        "attributes": {
+          "category": "time",
+          "type": "duration",
+          "item": "long"
+        },
+        "path": [
+          "time",
+          "duration",
+          "long"
+        ]
+      }
+    }
+  },
+  "component": {
+    "button": {
+      "border-radius": {
+        "value": "1.5rem",
+        "original": {
+          "value": "1.5"
+        },
+        "name": "ComponentButtonBorderRadius",
+        "attributes": {
+          "category": "size",
+          "type": "border",
+          "item": "width"
+        },
+        "path": [
+          "component",
+          "button",
+          "border-radius"
+        ]
+      },
+      "padding": {
+        "value": "1rem",
+        "original": {
+          "value": "{size.padding.medium.value}"
+        },
+        "name": "ComponentButtonPadding",
+        "attributes": {
+          "category": "size",
+          "type": "padding"
+        },
+        "path": [
+          "component",
+          "button",
+          "padding"
+        ]
+      },
+      "font-size": {
+        "value": "2rem",
+        "original": {
+          "value": "2"
+        },
+        "name": "ComponentButtonFontSize",
+        "attributes": {
+          "category": "size",
+          "type": "font"
+        },
+        "path": [
+          "component",
+          "button",
+          "font-size"
+        ]
+      },
+      "text-align": {
+        "value": "center",
+        "original": {
+          "value": "center"
+        },
+        "name": "ComponentButtonTextAlign",
+        "attributes": {},
+        "path": [
+          "component",
+          "button",
+          "text-align"
+        ]
+      },
+      "primary": {
+        "background-color": {
+          "value": "#ffc627",
+          "original": {
+            "value": "{color.brand.primary.base.value}"
+          },
+          "name": "ComponentButtonPrimaryBackgroundColor",
+          "attributes": {
+            "category": "color",
+            "type": "background"
+          },
+          "path": [
+            "component",
+            "button",
+            "primary",
+            "background-color"
+          ]
+        },
+        "color": {
+          "value": "#fafafa",
+          "original": {
+            "value": "{color.font.inverse.base.value}"
+          },
+          "name": "ComponentButtonPrimaryColor",
+          "attributes": {
+            "category": "color",
+            "type": "font"
+          },
+          "path": [
+            "component",
+            "button",
+            "primary",
+            "color"
+          ]
+        }
+      },
+      "secondary": {
+        "background-color": {
+          "value": "#bfbfbf",
+          "original": {
+            "value": "{color.brand.secondary.base.value}"
+          },
+          "name": "ComponentButtonSecondaryBackgroundColor",
+          "attributes": {
+            "category": "color",
+            "type": "background"
+          },
+          "path": [
+            "component",
+            "button",
+            "secondary",
+            "background-color"
+          ]
+        },
+        "color": {
+          "value": "#191919",
+          "original": {
+            "value": "{color.font.base.value}"
+          },
+          "name": "ComponentButtonSecondaryColor",
+          "attributes": {
+            "category": "color",
+            "type": "font"
+          },
+          "path": [
+            "component",
+            "button",
+            "secondary",
+            "color"
+          ]
+        }
+      },
+      "disabled": {
+        "opacity": {
+          "value": "50%",
+          "original": {
+            "value": "50%"
+          },
+          "name": "ComponentButtonDisabledOpacity",
+          "attributes": {},
+          "path": [
+            "component",
+            "button",
+            "disabled",
+            "opacity"
+          ]
+        }
+      }
+    }
+  }
+}

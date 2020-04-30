@@ -1,6 +1,6 @@
 
 // Do not edit directly
-// Generated on Tue, 28 Apr 2020 05:23:39 GMT
+// Generated on Thu, 30 Apr 2020 04:17:57 GMT
 
 $asset-font-icon-name: "FontAwesome";
 $asset-font-icon-ttf: "assets/fonts/fontawesome/fa-regular-400.ttf";
@@ -11,6 +11,14 @@ $asset-font-opensans-name: "Open Sans";
 $asset-font-opensans-ttf: "assets/fonts/OpenSans-Regular.ttf";
 $asset-font-roboto-name: "Roboto";
 $asset-font-roboto-ttf: "assets/fonts/Roboto-Regular.ttf";
+$image-asulogo-name: ASU Logo;
+$image-asulogo-university-horiz-black-png: assets/asu-logo/asu_university_horiz_rgb_black_150_0.png;
+$image-asulogo-university-horiz-maroongold: assets/asu-logo/asu_university_horiz_rgb_maroongold_150_4.png;
+$image-asulogo-university-horiz-white: assets/asu-logo/asu_university_horiz_rgb_white_150.png;
+$image-innovationbadge-name: ASU Innovation Badge;
+$image-innovationbadge-badge-only-on-dark: assets/innovation-badge/asu-2020-innovation--badge-only--on-dark.png;
+$image-innovationbadge-badge-only-on-gold: assets/innovation-badge/asu-2020-innovation--badge-only--on-gold.png;
+$image-innovationbadge-badge-only-on-white: assets/innovation-badge/asu-2020-innovation--badge-only--on-white.png;
 $color-alerts-error-base: #cc2f2f;
 $color-alerts-error-font: #b72a2a;
 $color-alerts-error-background: #f7dddd;
@@ -89,14 +97,7 @@ $color-font-inverse-info: #000000;
 $color-font-inverse-disabled: #000000;
 $color-font-button-primary: #fafafa;
 $color-font-button-secondary: #ffc627;
-$component-button-padding: 1rem;
-$component-button-font-size: 2rem;
-$component-button-text-align: center;
-$component-button-primary-background-color: #ffc627;
-$component-button-primary-color: #fafafa;
-$component-button-secondary-background-color: #bfbfbf;
-$component-button-secondary-color: #191919;
-$font-family-base: Open Sans;
+$font-family-base: Roboto;
 $font-family-icons: FontAwesome;
 $size-font-tiny: 0.75rem;
 $size-font-small: 0.875rem;
@@ -118,6 +119,16 @@ $size-padding-large: 1.5rem;
 $size-padding-xl: 2rem;
 $size-padding-xxl: 3rem;
 $size-padding-base: 1rem;
+$size-spacing-2: 0.0125rem;
+$size-spacing-4: 0.25rem;
+$size-spacing-8: 0.5rem;
+$size-spacing-16: 1rem;
+$size-spacing-24: 1.5rem;
+$size-spacing-32: 2rem;
+$size-spacing-48: 2.5rem;
+$size-spacing-64: 3rem;
+$size-spacing-128: 6rem;
+$size-spacing-base: 1rem;
 $time-transition-short: 0.20s;
 $time-transition-base: 0.40s;
 $time-transition-long: 0.60s;
@@ -128,3 +139,12 @@ $time-delay-long: 0.20s;
 $time-duration-short: 2.00s;
 $time-duration-base: 4.00s;
 $time-duration-long: 6.00s;
+$component-button-border-radius: 1.5rem;
+$component-button-padding: 1rem;
+$component-button-font-size: 2rem;
+$component-button-text-align: center;
+$component-button-primary-background-color: #ffc627;
+$component-button-primary-color: #fafafa;
+$component-button-secondary-background-color: #bfbfbf;
+$component-button-secondary-color: #191919;
+$component-button-disabled-opacity: 50%;
