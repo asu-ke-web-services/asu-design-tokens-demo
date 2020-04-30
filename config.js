@@ -37,6 +37,8 @@ const CTITransform = {
 }
 
 module.exports = {
+  source: ['properties/**/*.json', 'components/**/*.json'],
+
   // Rather than calling .registerTransform() we can apply the new transform
   // directly in our configuration. Using .registerTransform() with the same
   // transform name, 'attribute/cti', would work as well.
@@ -44,7 +46,7 @@ module.exports = {
     // Override the attribute/cti transform
     'attribute/cti': CTITransform
   },
-  source: ['tokens/**/*.json'],
+
   platforms: {
     scss: {
       // We can still use this transformGroup because we are overriding
