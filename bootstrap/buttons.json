@@ -2,7 +2,7 @@
   "btn": {
     "border": {
       "radius": {
-        "value": "{component.button.border-radius}",
+        "value": "{component.button.border-radius.value}",
         "comment": "Bootstrap"
       }
     }
