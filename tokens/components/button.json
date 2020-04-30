@@ -2,7 +2,7 @@
   "component": {
     "button": {
       "padding": { "value": "{size.padding.medium.value}" },
-      "font-size": { "value": 2 },
+      "font-size": { "value": "2" },
       "text-align": { "value": "center" },
 
       "primary": {
@@ -13,6 +13,10 @@
       "secondary": {
         "background-color": { "value": "{color.brand.secondary.base.value}" },
         "color": { "value": "{color.font.base.value}" }
+      },
+
+      "disabled": {
+        "opacity": { "value": "50%" }
       }
     }
   }
